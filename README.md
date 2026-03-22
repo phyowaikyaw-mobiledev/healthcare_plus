@@ -15,8 +15,8 @@ A complete telemedicine mobile application built with Flutter & Firebase. Suppor
 <br/><sub>Splash Screen</sub>
 </td>
 <td align="center">
-<img src="screenshots/register.png" width="180"/>
-<br/><sub>Register</sub>
+<img src="screenshots/register_doctor.png" width="180"/>
+<br/><sub>Doctor Register</sub>
 </td>
 <td align="center">
 <img src="screenshots/home_doctor.png" width="180"/>
